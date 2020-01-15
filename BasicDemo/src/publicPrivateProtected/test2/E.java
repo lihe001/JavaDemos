@@ -1,6 +1,6 @@
 package publicPrivateProtected.test2;
 
-package publicPrivateProtected.test1.A;
+import publicPrivateProtected.test1.A;
 
 public class E {
     public void show() {
@@ -14,7 +14,7 @@ public class E {
         //showV3();
         //showV4();
 
-        publicPrivateProtected.test1.A obj = new publicPrivateProtected.test1.A();
+        A obj = new A();
         //System.out.println(obj.v1);   error,  private
         //System.out.println(obj.v2);   error,  default
         //System.out.println(obj.v3);   error,  protected ֻ����Ϊ������ܷ���

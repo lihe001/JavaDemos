@@ -13,7 +13,7 @@ public class B {
 //		showV3();   //error
 //		showV4();   //error
 
-        publicPrivateProtected.test1.A obj = new publicPrivateProtected.test1.A();
+        A obj = new A();
         //System.out.println(obj.v1);   error,  private
         System.out.println(obj.v2);
         System.out.println(obj.v3);

@@ -1,7 +1,7 @@
 package publicPrivateProtected.test1;
 
 //C is a subclass of A, and in the same package of A.
-public class C extends publicPrivateProtected.test1.A {
+public class C extends A {
     public void show() {
         //System.out.println(v1);  error, private
         System.out.println(v2);
@@ -12,7 +12,7 @@ public class C extends publicPrivateProtected.test1.A {
         showV3();
         showV4();
 
-        publicPrivateProtected.test1.A obj = new publicPrivateProtected.test1.A();
+        A obj = new A();
         //System.out.println(obj.v1);   error,  private
         System.out.println(obj.v2);
         System.out.println(obj.v3);
