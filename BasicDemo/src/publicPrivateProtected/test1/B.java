@@ -24,4 +24,9 @@ public class B {
         obj.showV3();
         obj.showV4();
     }
+
+    public static void main(String[] args) {
+        B b = new B();
+        b.show();
+    }
 }

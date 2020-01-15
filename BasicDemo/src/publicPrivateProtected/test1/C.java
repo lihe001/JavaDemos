@@ -23,4 +23,9 @@ public class C extends A {
         obj.showV3();
         obj.showV4();
     }
+
+    public static void main(String[] args) {
+        C c = new C();
+        c.show();
+    }
 }
