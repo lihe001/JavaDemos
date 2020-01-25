@@ -35,7 +35,7 @@ public class XmlReader {
     public static void findMethod(NodeList elementList) {
         for (int i = 0; i < elementList.getLength(); i++) {
             Node elementNode = elementList.item(i);
-            //System.out.println("allnode: "+elementNode.getNodeName());
+            System.out.println("allnode: " + elementNode.getNodeName());
             if (elementNode.getNodeType() == Node.ELEMENT_NODE) {
                 Element element = (Element) elementNode;
                 String name = element.getNodeName();

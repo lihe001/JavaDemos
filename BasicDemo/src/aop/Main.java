@@ -9,8 +9,8 @@ public class Main {
 
 
     public static void initXml() {
-        XmlReader.readXml("aops.xml");
-        ResourceListener.addListener("E:/java/source/PMOOC04-03/");
+        XmlReader.readXml("C:\\Users\\lihe1\\JavaDemos\\BasicDemo\\src\\aop\\aops.xml");
+        ResourceListener.addListener("C:\\Users\\lihe1\\JavaDemos\\BasicDemo\\src\\aop");
     }
 
     public static void main(String[] args) throws Exception {
