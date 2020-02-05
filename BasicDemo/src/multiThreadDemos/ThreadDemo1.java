@@ -13,8 +13,12 @@ public class ThreadDemo1 {
 class TestThread1 implements Runnable {
     private int tickets = 100;
 
+    volatile boolean flag = true;
+
     public void run() {
-        while (true) {
+
+        while (flag) {
+            flag = false;
             if (tickets > 0) {
                 try {
                     Thread.sleep(100);
@@ -26,7 +30,7 @@ class TestThread1 implements Runnable {
             } else {
                 break;
             }
-
+            flag = true;
         }
     }
 }

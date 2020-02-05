@@ -18,7 +18,7 @@ class TestThread2 extends Thread {
         int i = 0;
         while (flag) {
             i++;
-            System.out.println(i);
+            //System.out.println(i);
         }
         System.out.println("test thread3 is exiting");
     }
