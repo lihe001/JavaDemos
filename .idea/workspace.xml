@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec7022a0-4547-42c7-a70d-ee733e18dd7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wayne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/BasicDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/aop/aops.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/aops.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/LambdaObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/LambdaScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/ListForEachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/OverloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/ThisScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicDemo/src/lambda/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1058708578">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="253" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="253" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="1941" />
+          <entry key="md" value="5" />
+          <entry key="txt" value="166" />
+          <entry key="xml" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1941" />
+          <entry key="PLAIN_TEXT" value="175" />
+          <entry key="XML" value="70" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Foo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/MultipleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Foo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Foo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/aops.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/ProxyHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>waitFinish</find>
+      <find>lockExample</find>
+      <find>selector</find>
+      <find>handleInput</find>
+      <find>XmlReader</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Foo.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/anonymousinner/Outer1.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/anonymousinner/Outer1Test.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/localinner/Outer2.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/localinner/Outer2Test.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/commoninner/Animal.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/commoninner/Flyable.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/commoninner/Outer3.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/staticnested/Outer4.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/staticnested/Outer4Test.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/classIntern/commoninner/Outer3Test.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/FunctionTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/MethodReference.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/PredicateTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/StringChecker.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/StringOrderTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/SupplierTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ClassStaticMethodTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ConstructorTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ObjectInstanceMethodTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/SuperInstanceMethodTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ThisInstanceMethodTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/LambdaObject.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/LambdaScopeTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ListForEachTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/OverloadTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/ThisScopeTest.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/lambda/WordCount.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/AdviceEnum.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/CommandLineRunner.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/MyAop.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/After.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Aspect.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Autowired.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Before.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Component.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/PostConstruct.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/mySpring/di/GreetingService.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/mySpring/MySpring.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/mySpring/di/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/mySpring/di/GreetingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/mySpring/aop/GreetingServiceAspect.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/spring/core/MySpringApplication.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo1.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo3.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo2.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Main.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Main.java" />
+        <option value="$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Main.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JavaDemos" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="JavaDemos" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BasicDemo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="JavaDemos" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BasicDemo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.anotation.annotations.multiple.Main">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Singleton.Singleton" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Singleton" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Singleton.Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Test" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperKeyWordDemos.Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SuperKeyWordDemos.Test" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anotation.annotations.marker.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="anotation.annotations.marker.Main" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anotation.annotations.multiple.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="anotation.annotations.multiple.Main" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anotation.annotations.single.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="anotation.annotations.single.Main" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aop.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="aop.Main" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classIntern.commoninner.Outer3Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="classIntern.commoninner.Outer3Test" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classIntern.staticnested.Outer4Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="classIntern.staticnested.Outer4Test" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.ClassStaticMethodTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.ClassStaticMethodTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.ConstructorTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.ConstructorTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.ConsumerTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.ConsumerTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.ListForEachTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.ListForEachTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.MethodReference" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.MethodReference" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.PredicateTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.PredicateTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda.StringOrderTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lambda.StringOrderTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.ForkJoin.SumTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.ForkJoin.SumTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.ThreadDemo0" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.ThreadDemo0" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.ThreadDemo1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.ThreadDemo1" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.ThreadDemo2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.ThreadDemo2" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.ThreadDemo3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.ThreadDemo3" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.concurrentDataStructure.list.ListTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.concurrentDataStructure.list.ListTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.executor.example1.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.executor.example1.Main" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.executor.example2.SumTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.executor.example2.SumTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.lock.CountDownLatchExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.lock.CountDownLatchExample" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.lock.CyclicBarrierExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.lock.CyclicBarrierExample" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.lock.LockExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.lock.LockExample" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.lock.SemaphoreExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.lock.SemaphoreExample" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiThreadDemos.product.ProductTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="multiThreadDemos.product.ProductTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="operator" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proxy.DynamicProxyDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="proxy.DynamicProxyDemo" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publicPrivateProtected.test1.B" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="publicPrivateProtected.test1.B" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publicPrivateProtected.test1.C" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="publicPrivateProtected.test1.C" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.base.ObjectCreate" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.base.ObjectCreate" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.keyClass.ClassTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.keyClass.ClassTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.keyClass.ConstructorTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.keyClass.ConstructorTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.keyClass.FieldTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.keyClass.FieldTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.keyClass.MethodTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.keyClass.MethodTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reflect.keyClass.SuperTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reflect.keyClass.SuperTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spring.mySpring.MySpring" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="spring.mySpring.MySpring" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staticFinal.Potato" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="staticFinal.Potato" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staticFinal.StaticBlockTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="staticFinal.StaticBlockTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staticFinal.StaticMethodTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="staticFinal.StaticMethodTest" />
+      <module name="BasicDemo" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.operator" />
+      <item itemvalue="Application.SuperKeyWordDemos.Test" />
+      <item itemvalue="Application.staticFinal.Potato" />
+      <item itemvalue="Application.staticFinal.StaticMethodTest" />
+      <item itemvalue="Application.Singleton.Test" />
+      <item itemvalue="Application.Singleton.Singleton" />
+      <item itemvalue="Application.publicPrivateProtected.test1.B" />
+      <item itemvalue="Application.publicPrivateProtected.test1.C" />
+      <item itemvalue="Application.multiThreadDemos.ThreadDemo0" />
+      <item itemvalue="Application.multiThreadDemos.ThreadDemo1" />
+      <item itemvalue="Application.multiThreadDemos.ThreadDemo2" />
+      <item itemvalue="Application.multiThreadDemos.ThreadDemo3" />
+      <item itemvalue="Application.multiThreadDemos.product.ProductTest" />
+      <item itemvalue="Application.multiThreadDemos.executor.example1.Main" />
+      <item itemvalue="Application.multiThreadDemos.executor.example2.SumTest" />
+      <item itemvalue="Application.multiThreadDemos.ForkJoin.SumTest" />
+      <item itemvalue="Application.multiThreadDemos.concurrentDataStructure.list.ListTest" />
+      <item itemvalue="Application.multiThreadDemos.lock.LockExample" />
+      <item itemvalue="Application.multiThreadDemos.lock.SemaphoreExample" />
+      <item itemvalue="Application.multiThreadDemos.lock.CountDownLatchExample" />
+      <item itemvalue="Application.multiThreadDemos.lock.CyclicBarrierExample" />
+      <item itemvalue="Application.proxy.DynamicProxyDemo" />
+      <item itemvalue="Application.reflect.base.ObjectCreate" />
+      <item itemvalue="Application.reflect.keyClass.ClassTest" />
+      <item itemvalue="Application.reflect.keyClass.ConstructorTest" />
+      <item itemvalue="Application.reflect.keyClass.FieldTest" />
+      <item itemvalue="Application.reflect.keyClass.MethodTest" />
+      <item itemvalue="Application.reflect.keyClass.SuperTest" />
+      <item itemvalue="Application.aop.Main" />
+      <item itemvalue="Application.classIntern.staticnested.Outer4Test" />
+      <item itemvalue="Application.classIntern.commoninner.Outer3Test" />
+      <item itemvalue="Application.lambda.ClassStaticMethodTest" />
+      <item itemvalue="Application.lambda.ConstructorTest" />
+      <item itemvalue="Application.lambda.ConsumerTest" />
+      <item itemvalue="Application.lambda.MethodReference" />
+      <item itemvalue="Application.lambda.PredicateTest" />
+      <item itemvalue="Application.lambda.StringOrderTest" />
+      <item itemvalue="Application.lambda.ListForEachTest" />
+      <item itemvalue="Application.spring.mySpring.MySpring" />
+      <item itemvalue="Application.staticFinal.StaticBlockTest" />
+      <item itemvalue="Application.anotation.annotations.single.Main" />
+      <item itemvalue="Application.anotation.annotations.marker.Main" />
+      <item itemvalue="Application.anotation.annotations.multiple.Main" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969574" visible="true" weight="0.16912752" />
+      <window_info id="Structure" order="1" sideWeight="0.5030426" side_tool="true" weight="0.16308725" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35879946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287858" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3287858" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32742155" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.23465212" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="0" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="changeName" />
+    <MESSAGE value="Super key word" />
+    <MESSAGE value="Singleton and Static" />
+    <MESSAGE value="exception example" />
+    <MESSAGE value="comparator compareTo&#10;international" />
+    <MESSAGE value="multiThread" />
+    <MESSAGE value="multiThread 2" />
+    <MESSAGE value="netWork" />
+    <MESSAGE value="network aio" />
+    <MESSAGE value="proxy" />
+    <MESSAGE value="aop" />
+    <MESSAGE value="many" />
+    <option name="LAST_COMMIT_MESSAGE" value="many" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/mySpring/MySpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/mySpring/di/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/After.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/annotations/PostConstruct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/AdviceEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/CommandLineRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/MySpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4300">
+          <caret line="215" column="83" selection-start-line="215" selection-start-column="83" selection-end-line="215" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/spring/core/MyAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/publicPrivateProtected/test1/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/publicPrivateProtected/test1/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/publicPrivateProtected/test2/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/publicPrivateProtected/test2/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/publicPrivateProtected/test1/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/staticFinal/Potato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/staticFinal/StaticBlockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/staticFinal/StaticMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/staticFinal/StaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/daemon/ThreadDemo4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ThreadDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/product/ProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/product/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/product/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/product/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/threadgroup/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/threadgroup/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/threadgroup/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-573">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ForkJoin/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/ForkJoin/SumTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/lock/SemaphoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/multiThreadDemos/lock/LockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/XmlReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/SingleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/single/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/MultipleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/marker/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/anotation/annotations/multiple/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/aops.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicDemo/src/aop/ProxyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BasicDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

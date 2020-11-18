@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 public class Main {
     public static void main(String[] args) throws Exception {
         int passed = 0, failed = 0;
-        String className = "annotations.single.Foo";
+        String className = "anotation.annotations.single.Foo";
         for (Method m : Class.forName(className).getMethods()) {
 
             if (m.isAnnotationPresent(SingleTest.class)) {
